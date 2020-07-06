@@ -1,0 +1,28 @@
+presidente
+dilma ciro pt 13
+temer_fora aecio pmdb 45
+bolsonaro eduardo psc 66
+evamberto jose rede 43
+-
+governador
+camilo cid pt 13
+mauro japao ptr 15
+joao lauro pmdb 45
+-
+senador
+tasso pmdb 451
+romario psb 234
+jose psdb 123
+-
+deputadofederal
+danilo_forte pmdb 1234
+miqueias pt 1453
+lauro_foda pt 1344
+tirica ptr 3322
+-
+deputadoestadual
+ricado pmdb 12345
+jose pt 78656
+evamberto pt 34445
+leandro   pmdb 12355
+-
