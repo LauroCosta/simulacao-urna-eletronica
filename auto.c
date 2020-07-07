@@ -84,18 +84,11 @@ while(1){
 
 //getchar();
 
-
-
     if(feof(arq)){
-
         break;
     }
-
 }
 fclose(arq);
-
-
-
 
 }
 void governador(){
@@ -153,19 +146,11 @@ while(1){
 
 //getchar();
 
-
-
     if(feof(arq)){
-
         break;
     }
-
 }
 fclose(arq);
-
-
-
-
 
 }
 void senador (){
@@ -214,8 +199,6 @@ while(1){
 
 //getchar();
 
-
-
     if(feof(arq)){
 
         break;
@@ -223,9 +206,6 @@ while(1){
 
 }
 fclose(arq);
-
-
-
 
 }
 void deputadofederal(){
@@ -269,9 +249,6 @@ int acontece=0;
     }
 
 //getchar();
-
-
-
     if(feof(arq)){
 
         break;
@@ -329,15 +306,10 @@ while(1){
 
 //getchar();
 
-
-
     if(feof(arq)){
 
         break;
     }
-
 }
 fclose(arq);
-
 }
-
