@@ -10,7 +10,6 @@ typedef struct{
     int num;
 }CAND;*/
 
-
 int arqpartido(){
 
     CAND dados;
@@ -47,11 +46,10 @@ int arqpartido(){
         printf("erro");
         exit(1);
 
-
     }
     }
 
-//----------------parte para extrair do partido se È igual ou n„o
+//----------------parte para extrair do partido se √© igual ou n√£o
     char sigla[10];
     int aux=0;
     while(!feof(cadastros)){
@@ -77,8 +75,7 @@ int arqpartido(){
 
     }
 //-------------fim
-//----------------parte para extrair do partido se È igual ou n„o
-
+//----------------parte para extrair do partido se √© igual ou n√£o
 //----------------PARTE DO PRESIDENTE;
     char sigla2[10];
     int aux1=0;
@@ -101,8 +98,6 @@ int arqpartido(){
         fprintf(partidos,"\n%s",dados.sigla);
         fclose(partidos);
     }
-
-
     }
 //-------------fim
     return 0;
